@@ -1,5 +1,5 @@
 Hi, I’m Patrick Neal
-- I’m a chemistry student at Norhteastner University working in the Lopez Lab
+- I’m a chemistry student at Northeastern University working in the Lopez Lab
 
 - I found computational chemistry in my first year of undergrad, and have really loved it
 
