@@ -1,15 +1,11 @@
-Hi, I’m Patrick Neal
-- I’m a chemistry student at Northeastern University working in the Lopez Lab
+# Cheminformatics and Computational Chemistry tools
 
-- I found computational chemistry in my first year of undergrad, and have really loved it
+## I am a recent graduate from Northeastern and use this GitHub to archive a few projects
 
-- I only got started really developing with python in 2019 and you can probably see the 
-  embarassingly bad early days...
-  
-- I'm really interested in making cheminformatics tools for chemists
-  whether that be for drug discovery or materials design 
+My interests are at the intersection of chemistry and data science, leveraging modern compute power to answer interesting and impactful chemical problems. I started learning Python to automate QM calculations I was tired of running by hand a few years ago, and have tried to post a few of the interesting projects I've worked on here along the way!
 
-<!---
-neal-p/neal-p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+There's some pretty old and outdated (not to mention *cringeworthy*) code here that I'm slowly fixing up in my spare time, but the main purpose of this GitHub at the moment is to host the **WorkflowV2** codebase used for building automated QM calculation pipelines by the Lopez Lab!
+
+# WorkflowV2
+<img src="Mol_Object.png" width="75%" align="middle" />
+
