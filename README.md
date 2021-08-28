@@ -9,3 +9,6 @@ There's some pretty old and outdated (not to mention *cringeworthy*) code here t
 # WorkflowV2
 <img src="Mol_Object.png" width="75%" align="middle" />
 
+# EZ-TS
+<img src="Mol_Object.png" width="75%" align="middle" />
+
