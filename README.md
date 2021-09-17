@@ -12,3 +12,6 @@ There's some pretty old and outdated code here that I'm slowly fixing up in my s
 # EZ-TS
 <img src="ez-ts-toc.png" width="75%" align="middle" />
 
+# Spectra Plotter
+<img src="GUI.PNG" width="75%" align="middle" />
+
